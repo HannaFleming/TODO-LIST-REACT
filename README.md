@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+![Screenshot 2023-07-25 195622](https://github.com/HannaFleming/TODO-LIST-REACT/assets/124400864/66b97161-f71e-48be-a7a7-ec2dab192146)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
